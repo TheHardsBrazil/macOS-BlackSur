@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=macOS-BlackSur
+Description=Display a macOS loading
+Comment=created By ThBz (https://github.com/TheHardsBrazil)
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/macOS-BlackSur
+ScriptFile=/usr/share/plymouth/themes/macOS-BlackSur/macOS-BlackSur.script
